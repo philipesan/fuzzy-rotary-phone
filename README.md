@@ -2,5 +2,5 @@
 It's a Fuzzy Phone that rotates
 Meus atores favoritos
   - Bob
-  - Marcy
+  - Jimmy
   - Tommy
