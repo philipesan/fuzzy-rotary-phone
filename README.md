@@ -4,3 +4,4 @@ Meus atores favoritos
   - Bob
   - Jimmy
   - Tommy
+  - Grande Nappa
